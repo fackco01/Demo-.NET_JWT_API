@@ -1,0 +1,17 @@
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\bin\Debug\net7.0\BusinessObject.dll
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\bin\Debug\net7.0\BusinessObject.pdb
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

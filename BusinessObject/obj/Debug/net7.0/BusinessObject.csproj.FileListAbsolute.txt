@@ -1,0 +1,14 @@
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\bin\Debug\net7.0\BusinessObject.runtimeconfig.json
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.AssemblyReference.cache
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\BusinessObject.genruntimeconfig.cache
+D:\FPT\SE1604\FA23\PRN231\Projects\Assigment03Solution_DE160424\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll
